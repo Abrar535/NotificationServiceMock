@@ -20,7 +20,7 @@ public class NotificationservicemockApplication implements CommandLineRunner {
     @Override
     public void run(String... args) {
       log.info("dbUrl is "+ dbUrl);
-
+// should not have changed anything!!!
 
     }
 }
